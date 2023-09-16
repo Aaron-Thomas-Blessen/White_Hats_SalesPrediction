@@ -1,4 +1,4 @@
-# White_Hats_SalesPrediction
+# SalesPrediction
 
 Sales prediction is a critical aspect of business planning and strategy. Accurate sales predictions enable companies to make informed decisions regarding inventory management, resource allocation, marketing strategies, and financial planning. Machine learning techniques have proven to be invaluable in forecasting future sales based on historical data and relevant variables.
 
